@@ -1,0 +1,31 @@
+.change-to-capital{
+    text-transform: uppercase;
+}
+dd {
+    display: block;
+}
+.left-side{
+    height: 800px;
+}
+.profile-side{
+    display: flex;
+    flex-direction: column;
+}
+.heading{
+    display: block;
+}
+.imgOdunayo{
+    border-radius: 50%;
+    height: 150px;
+    width: 200px;
+    margin-top: 25px;
+    display: flex;
+}
+.main{
+    color: aquamarine;
+
+}
+.iBlack{
+    color: black;
+}
+
